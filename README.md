@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository
 <br>
-author - shagun sharma
+author - shagun sharma(software developer)
